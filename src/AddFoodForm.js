@@ -22,6 +22,7 @@ function AddFoodForm({ callbackToCreate }) {
     setCalories('');
     setServings('');
   };
+  
 
   return (
     <Card
